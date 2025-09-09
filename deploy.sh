@@ -1,7 +1,6 @@
 #!/bin/bash
 set -e
 
-# Configuration
 BUCKET_NAME="my-static-site-bucket"
 CF_DIST_ID="YOUR_CLOUDFRONT_DIST_ID"
 
